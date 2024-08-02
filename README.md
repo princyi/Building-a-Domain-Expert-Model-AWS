@@ -1,4 +1,4 @@
-# AWS Peoject = Building-a-Domain-Expert-Model-AWS
+# AWS Project = Building-a-Domain-Expert-Model-AWS
 Fine-tuning a Large Language Model
 
 Project Overview
