@@ -1,4 +1,4 @@
-# AWS Project = Building-a-Domain-Expert-Model-AWS
+# AWS Project = Building-a-Domain-Expert-Model-AWS with AWS SageMaker
 Fine-tuning a Large Language Model
 
 Project Overview
